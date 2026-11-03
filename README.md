@@ -61,19 +61,6 @@ These exercises provide practical experience in examining suspicious network act
 
 ---
 
-## 🏆 Assessment Results
-
-| Lab | Investigation | Result |
-| --- | --- | --- |
-| 3 | Identify the Attacker’s IP | 100/100 |
-| 4 | Follow TCP Stream | 100/100 |
-| 5 | Follow TCP Stream, Part 2 | 100/100 |
-| 6 | HTTP Plaintext Credentials | 100/100 |
-| 7 | Brute Force Catch | 100/100 |
-| 8 | VoIP Call Replay | 100/100 |
-| **Total** | **Six assessments** | **600/600 — 100%** |
-
----
 
 # 🪜 Lab Investigation Procedures
 
