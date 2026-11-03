@@ -368,7 +368,6 @@ These exercises were completed for training. Traffic capture and analysis should
 
 # 🔗 Tools & Resources
 
-Thank you to **Networkwalks** and **[Waqas Karim (CCIE)](https://www.linkedin.com/in/waqaskarim/)** for the practical learning resources and guidance.
 
 - [Networkwalks](https://www.networkwalks.com/)
 - [Wireshark](https://www.wireshark.org/)
